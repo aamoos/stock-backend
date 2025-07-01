@@ -18,12 +18,12 @@
 - https://financialmodelingprep.com/api/v3 (재무제표)
 
 # 화면
-- 인기차트
+## 인기차트
 ![image](https://github.com/user-attachments/assets/85427864-f1f2-45d5-a65f-e6ae1e45a223)
 - 10개, 20개, 50, 100개 보고싶은 리스트의 개수를 선택한만큼 인기차트 표현
 - 검색창에 티커명 입력후 조회시 실시간 차트 및 재무제표 확인 가능한 상세화면 이동
 
-- 상세화면
+## 상세화면
 ![image](https://github.com/user-attachments/assets/9d1fc77f-c2cc-4c4d-9cb9-a60a3dadbf9b)
 
 ![image](https://github.com/user-attachments/assets/9d25c6cb-afb2-45e0-851d-28a494e50d4a)
