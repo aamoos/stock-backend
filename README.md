@@ -4,18 +4,20 @@
 # stock-backend
 
 # 개발환경
-- inteliJ
-- Spring boot
-- Gradle
-- h2 (local)
+- vsCode
 
 # 사용기술
-- spring data jpa
+- Vue3
+- Vuetify
+- vue3-apexcharts
+- axios
+- router
 
 # openApi
 - https://query1.finance.yahoo.com/v1/finance/screener/predefined/saved?scrIds=most_actives (인기차트)
 - https://query1.finance.yahoo.com/v8/finance/chart (실시간차트)
 - https://financialmodelingprep.com/api/v3 (재무제표)
+- https://finnhub.io/api/v1/company-news (뉴스)
 
 # 화면
 ## 인기차트
@@ -35,6 +37,8 @@
 ![image](https://github.com/user-attachments/assets/9d25c6cb-afb2-45e0-851d-28a494e50d4a)
 - SEC보고서 버튼 클릭시 해당 년도 SEC 보고서 링크 화면으로 이동
 
-
+## 뉴스
+![image](https://github.com/user-attachments/assets/9c323bf7-cbe4-42ce-ae71-f0c18210c644)
+- finhub news api를 사용해서 news 목록 표현
 
 
