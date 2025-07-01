@@ -1,0 +1,28 @@
+spring:
+  datasource:
+    url: jdbc:h2:mem:stock  # 메모리 DB (또는 jdbc:h2:file:./data/testdb)
+    driver-class-name: org.h2.Driver
+    username: sa
+    password:
+  jpa:
+    hibernate:
+      ddl-auto: update  # create, create-drop, update, validate 등
+    show-sql: true
+  h2:
+    console:
+      enabled: true
+      path: /h2-console
+  mvc:
+    throw-exception-if-no-handler-found: true
+  web:
+    resources:
+      add-mappings: false
+
+stock:
+  yahoo:
+    url: https://query1.finance.yahoo.com/v1/finance/screener/predefined/saved?scrIds=most_actives
+    chart-url: https://query1.finance.yahoo.com/v8/finance/chart
+
+financialmodelingprep:
+  base-url: https://financialmodelingprep.com/api/v3
+  apikey: r28559QOvXMTdXsqU5KSVICqJoEAU39o
