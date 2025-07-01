@@ -12,7 +12,7 @@
 # 사용기술
 - spring data jpa
 
-# openApi karaoke
+# openApi
 - https://query1.finance.yahoo.com/v1/finance/screener/predefined/saved?scrIds=most_actives (인기차트)
 - https://query1.finance.yahoo.com/v8/finance/chart (실시간차트)
 - https://financialmodelingprep.com/api/v3 (재무제표)
