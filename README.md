@@ -26,6 +26,12 @@
 ## 상세화면
 ![image](https://github.com/user-attachments/assets/9d1fc77f-c2cc-4c4d-9cb9-a60a3dadbf9b)
 
+![image](https://github.com/user-attachments/assets/52928aff-fabd-4edf-8f7a-ab8b4174fa6f)
+- 기간은 1일, 5일, 1달, 3달, 1년 단위로 설정 가능
+
+![image](https://github.com/user-attachments/assets/bafd975a-bd44-43a3-b587-23efd59f23be)
+- 간격은 1분, 5분, 15분, 1일 단위로 설정 가능 (기간에 따라 선택할수 있는 간격이 다름)
+
 ![image](https://github.com/user-attachments/assets/9d25c6cb-afb2-45e0-851d-28a494e50d4a)
 - SEC보고서 버튼 클릭시 해당 년도 SEC 보고서 링크 화면으로 이동
 
